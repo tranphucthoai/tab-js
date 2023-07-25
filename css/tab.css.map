@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC;EACE,SAAS,EAAE,IAAI;CAClB;;AAED,AAAA,GAAG,CAAC;EACA,SAAS,EAAE,IAAI;CAClB;;AAED,AAAA,GAAG,CAAC;EACA,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "../scss/tab.scss"
+    ],
+    "names": [],
+    "file": "tab.css"
+}
